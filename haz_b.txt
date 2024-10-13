@@ -1,0 +1,5 @@
+% Tenyek: helyseg(Nev, E, N, D, K).
+helyseg(eloszoba,fal,fal,ajto,bejarat).
+helyseg(furdo,fal,ajto,ablak,ajto).
+helyseg(halo,bejarat,fal,ablak,ajto).
+helyseg(nappali,ajto,ajto,ablak,fal).
